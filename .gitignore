@@ -30,3 +30,5 @@ bones/
 
 # Python virtual environments
 **/*env/
+
+config.py
